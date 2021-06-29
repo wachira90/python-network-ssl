@@ -56,5 +56,5 @@ secureClientSocket.close();
 clientSocket.close();
 
 '''
-Secure communication received from server:2020-04-03 00:59:15.225650
+Secure communication received from server:2020-06-28 00:59:15.225650
 '''
